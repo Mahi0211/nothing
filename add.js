@@ -8,4 +8,4 @@ const add = function(great){
     return (great*great)
 }
 
-console.log(add(5))
+console.log(add(6))
